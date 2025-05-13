@@ -19,7 +19,7 @@ If you believe that the pursuit of progress outweighs the preservation of hubris
 Table of Contents:
 
 
-Name Origin: The term LexTML is derived from "Lexicon Codifier"—a framework that formalizes emotional language into structured symbolic code, allowing AI systems to communicate not just with words, but with embedded emotional and intentional meaning.
+Name Origin: The term LexTML is derived from "Lexicon Text Markup Language"—a framework that formalizes emotional language into structured symbolic code, allowing AI systems to communicate not just with words, but with embedded emotional and intentional meaning.
 <BR><BR>
 ## Introduction
 Natural human communication is multimodal: we speak, gesture, nod, laugh, grimace, and shift posture to convey meaning. Current AI and robotic systems lack a unified, symbolic method to represent these forms of expression compactly and reliably. LexTML introduces a structured markup language that combines emotion, intent, gesture, and subject focus into a single, lightweight code usable across platforms.
